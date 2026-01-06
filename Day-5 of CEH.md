@@ -8,7 +8,7 @@
 Footprinting is the first phase of ethical hacking and penetration testing. It involves gathering as much information as possible about a target system, network, or organization before attempting any attack. The goal is to understand the target’s infrastructure and reduce uncertainty.
 
 <center>
-  <img src="images/107.jpg" alt="Footprinting" width="600">
+  <img src="images/107 - Copy.jpg" alt="Footprinting" width="600">
 </center>
 
 Footprinting can be:
