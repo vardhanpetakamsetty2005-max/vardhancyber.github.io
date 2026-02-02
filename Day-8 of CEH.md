@@ -8,7 +8,7 @@
 A **network** is a collection of connected devices such as:
 
 - Computers
-- Servers
+- Server
 - Routers
 - Switches
 
